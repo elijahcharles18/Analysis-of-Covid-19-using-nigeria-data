@@ -40,12 +40,17 @@ The ANOVA table below presents the results of testing whether the total number o
 ### Figure 1
 The graph below shows that the **South West** region has the highest number of COVID-19 deaths compared to other regions.
 
+
+![Total number of covid-19 deaths in Nigeria](https://github.com/elijahcharles18/Analysis-of-Covid-19-using-nigeria-data/raw/main/Total_number_of_covid-19_confirmed_in_nigeria.jpg)
+
 *Figure 1: COVID-19 Deaths by Region in Nigeria*
-![Total_number_of_covid-19_death_in_nigeria](C:/Users/USER/Pictures/Total_number_of_covid-19_death_in_nigeria.jpg)
+
+
 
 ### Figure 2
 This graph highlights the **South West** region also having the highest number of confirmed COVID-19 cases.
-![Total_number_of_covid-19_confirmed_in_nigeria](path/to/your/image)
+![Total number of covid-19 confirmed in Nigeria](https://github.com/elijahcharles18/Analysis-of-Covid-19-using-nigeria-data/raw/main/Total_number_of_covid-19_confirmed_in_nigeria.jpg)
+
 *Figure 2: COVID-19 Confirmed Cases by Region in Nigeria*
 
 ### Post Hoc Analysis Results
