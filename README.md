@@ -82,6 +82,4 @@ The **ANOVA** and **Tukey's HSD Post Hoc analysis** results show significant dif
 
 The analysis provides important insights for public health officials to allocate resources more effectively in regions with the highest death tolls, aiming to mitigate the impact of the pandemic.
 
----
 
-This **README.md** file is a structured summary of your analysis, providing an overview, methodology, statistical analysis, results, and conclusion in a concise format. It is useful for sharing with colleagues or anyone reviewing your work, and can easily be expanded with additional visualizations or more detailed descriptions if needed.
